@@ -9,7 +9,7 @@
     "init:local": "./scripts/init_local.sh"
   },
   "dependencies": {
-    "hono": "^4.4.8"
+    "hono": "^4.12.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
